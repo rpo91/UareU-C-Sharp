@@ -23,3 +23,13 @@ C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug
 C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\UareUWindowsMSSQLCSharp.Verify.resources
 C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\bin\Debug\UareUWindowsMSSQLCSharp.exe
 C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\bin\Debug\UareUWindowsMSSQLCSharp.pdb
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Enroll.resources
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Form_Main.resources
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Properties.Resources.resources
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Verify.resources
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.exe
+C:\Users\andre\OneDrive\Documentos\Desarrollo de software\UareU-C-Sharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.pdb
